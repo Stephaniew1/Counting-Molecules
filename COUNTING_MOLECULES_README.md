@@ -67,7 +67,7 @@ jupyter notebook "blob detection .ipynb"
 
 ## Context
 
-This project was completed during my Data Science Vacation Research Scholar placement at the University of Adelaide, in collaboration with researchers using STM imaging to study molecular surface chemistry.
+This project was completed as part pf my degree requirements at Monash University.
 
 ## Limitations and future work
 
