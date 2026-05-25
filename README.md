@@ -77,8 +77,8 @@ cd Counting-Molecules
 pip install -r requirements.txt
 
 # Run in order:
-jupyter notebook 01_read_stm_imagess.ipynb
-jupyter notebook 02_binarizationn.ipynb
+jupyter notebook 01_read_stm_images.ipynb
+jupyter notebook 02_binarization.ipynb
 jupyter notebook 03_blob_detection.ipynb
 ```
 
